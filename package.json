@@ -1,0 +1,13 @@
+{
+  "name": "@giuseppelanna/trust",
+  "version": "0.0.1",
+  "description": "Rust types for TypeScript",
+  "author": "Giuseppe Lanna",
+  "license": "MIT",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@giuseppelanna/biomejs-configs": "^3.0.1",
+    "typescript": "^5.8.3"
+  }
+}
