@@ -1,6 +1,6 @@
 {
   "name": "@giuseppelanna/trust",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Rust types for TypeScript",
   "author": "Giuseppe Lanna",
   "license": "MIT",
